@@ -1,0 +1,8 @@
+h1{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 45px;
+    width: 50%;
+    margin: 10px auto;
+    box-shadow:gray;
+}
